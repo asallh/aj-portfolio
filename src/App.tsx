@@ -1,4 +1,3 @@
-import "./App.css";
 import VerticalTimelineComponent from "./Components/VerticalTimelineComponent";
 
 function App() {
