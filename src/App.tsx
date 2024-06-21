@@ -1,11 +1,10 @@
 import "./App.css";
+import VerticalTimelineComponent from "./Components/VerticalTimelineComponent";
 
 function App() {
   return (
-    <center>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </center>
-  );
+    <VerticalTimelineComponent />
+    );
 }
 
 export default App;
